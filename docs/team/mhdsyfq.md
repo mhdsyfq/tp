@@ -51,7 +51,7 @@ Given below are my contributions to the project.
     
 * **Enhancements to features implemented by peers**:
   * Improved `gem` and `science` features to support auto update [\#182](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/182)
-  
+  <br>
 * **Enhancements to existing features**:
   * Refactored the Address Book 3 `ui` package and components [\#37](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/37)
   * Improved flexibility of `find` feature [\#77](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/77)
@@ -63,7 +63,7 @@ Given below are my contributions to the project.
     * Changed arrangement of GUI components [\#51](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/51)
     * Updated GUI color scheme [\#66](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/66)
     * Added introduction display with original GradPad logo [\#127](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/127)
-    
+    <br>
 * **Contributions to team-based tasks**:
   * Came up with product name
   * Changed product icon
@@ -74,12 +74,12 @@ Given below are my contributions to the project.
   * Updated User Guide according to peers' and tutor's comments
   * Improved readability and clarity for result display messages
   * Standardised JavaDoc comments
-  
+  <br>
 * **Documentation**:
   * User Guide:
     * Added documentation for `help`,`add` and `find` features [\#24](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/24)
     * Updated command descriptions [\#102](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/102)
-    
+  <br>
   * Developer Guide:
     * Added documentation for `find` feature, including sequence diagram [\#62](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/62)
     * Added documentation for integration of NUSMods for `add` and `edit` features [\#214](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/214)
@@ -88,7 +88,7 @@ Given below are my contributions to the project.
     * Updated documentation for manual testing [\#87](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/87)   
     * Updated documentation for `find` feature [\#215](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/215) 
     * Updated documentation for `delete` feature [\#217](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/217)
-
+  <br>
 * **Community**:
   * Assisted in testing and reporting bugs for another team's product:<br>
   [\#1](https://github.com/mhdsyfq/ped/issues/1),
