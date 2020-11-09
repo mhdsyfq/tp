@@ -49,6 +49,8 @@ Given below are my contributions to the project.
     MCs they have attained so far so as to gauge how close they are to graduation without having to check the MCs for each
     module and manually calculate. 
     
+    <div style="page-break-after: always;"></div>
+    
 * **Enhancements to features implemented by peers**:
   * Improved `gem` and `science` features to support auto update [\#182](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/182)<br>
   <br>
