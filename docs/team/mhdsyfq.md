@@ -50,7 +50,7 @@ Given below are my contributions to the project.
     module and manually calculate. 
     
 * **Enhancements to features implemented by peers**:
-  * Improved `gem` and `science` features to support auto update [\#182](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/182)
+  * Improved `gem` and `science` features to support auto update [\#182](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/182)<br>
   <br>
 * **Enhancements to existing features**:
   * Refactored the Address Book 3 `ui` package and components [\#37](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/37)
@@ -62,7 +62,7 @@ Given below are my contributions to the project.
   * Changed the entire outlook of the Graphical User Interface (GUI)
     * Changed arrangement of GUI components [\#51](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/51)
     * Updated GUI color scheme [\#66](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/66)
-    * Added introduction display with original GradPad logo [\#127](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/127)
+    * Added introduction display with original GradPad logo [\#127](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/127)<br>
     <br>
 * **Contributions to team-based tasks**:
   * Came up with product name
@@ -73,12 +73,12 @@ Given below are my contributions to the project.
   * Consolidated all messages into a single class
   * Updated User Guide according to peers' and tutor's comments
   * Improved readability and clarity for result display messages
-  * Standardised JavaDoc comments
+  * Standardised JavaDoc comments<br>
   <br>
 * **Documentation**:
   * User Guide:
     * Added documentation for `help`,`add` and `find` features [\#24](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/24)
-    * Updated command descriptions [\#102](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/102)
+    * Updated command descriptions [\#102](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/102)<br>
   <br>
   * Developer Guide:
     * Added documentation for `find` feature, including sequence diagram [\#62](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/62)
@@ -87,7 +87,7 @@ Given below are my contributions to the project.
     * Updated documentation for `Ui` component, including class diagram [\#62](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/62)
     * Updated documentation for manual testing [\#87](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/87)   
     * Updated documentation for `find` feature [\#215](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/215) 
-    * Updated documentation for `delete` feature [\#217](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/217)
+    * Updated documentation for `delete` feature [\#217](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/217)<br>
   <br>
 * **Community**:
   * Assisted in testing and reporting bugs for another team's product:<br>
