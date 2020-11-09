@@ -50,10 +50,9 @@ Given below are my contributions to the project.
     module and manually calculate. 
     
 * **Enhancements to features implemented by peers**:
-  * Improved `gem` and `science` features to support auto update [\#182](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/182)<br>
-    <br>
+  * Improved `gem` and `science` features to support auto update [\#182](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/182)
+  
 * **Enhancements to existing features**:
-
   * Refactored the Address Book 3 `ui` package and components [\#37](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/37)
   * Improved flexibility of `find` feature [\#77](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/77)
   * Improved implementation of `add` and `edit` features [\#111](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/111)
@@ -64,7 +63,7 @@ Given below are my contributions to the project.
     * Changed arrangement of GUI components [\#51](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/51)
     * Updated GUI color scheme [\#66](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/66)
     * Added introduction display with original GradPad logo [\#127](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/127)
-
+    
 * **Contributions to team-based tasks**:
   * Came up with product name
   * Changed product icon
@@ -89,7 +88,6 @@ Given below are my contributions to the project.
     * Updated documentation for manual testing [\#87](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/87)   
     * Updated documentation for `find` feature [\#215](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/215) 
     * Updated documentation for `delete` feature [\#217](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/217)
-    
 
 * **Community**:
   * Assisted in testing and reporting bugs for another team's product:<br>
