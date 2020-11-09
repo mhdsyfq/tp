@@ -50,8 +50,8 @@ Given below are my contributions to the project.
     module and manually calculate. 
     
 * **Enhancements to features implemented by peers**:
-  * Improved `gem` and `science` features to support auto update [\#182](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/182)
-    
+  * Improved `gem` and `science` features to support auto update [\#182](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/182)<br>
+    <br>
 * **Enhancements to existing features**:
 
   * Refactored the Address Book 3 `ui` package and components [\#37](https://github.com/AY2021S1-CS2103T-T09-1/tp/pull/37)
