@@ -6,8 +6,7 @@ title: User Guide
 
 * Table of Contents
 {:toc}
-
---------------------------------------------------------------------------------------------------------------------
+<div style="page-break-after: always;"></div>
 ## GradPad
 
 We are a team of **Computer Science Undergraduates** working together to solve **module management** and **graduation planning** problems
