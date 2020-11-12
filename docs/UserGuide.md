@@ -1,6 +1,6 @@
 ---
 layout: page
-title: User Guide
+title: Table of Contents
 ---
 
 
@@ -23,6 +23,8 @@ With this guide, you'll be ready to use GradPad in no time.
 * Italicised words (e.g. *Completed Modules List*) refer to actual sections on the GradPad user interface.
 
 </div>
+
+<div style="page-break-after: always;"></div>
 ## What is GradPad? (Syafiq)
 GradPad is a one-stop solution to **module management** for Computer Science Undergraduates.
 Planning for modules has always been a tedious process but it does not have to be.
@@ -69,7 +71,6 @@ Follow the steps below to learn how to get started with GradPad!
 
    ![Ui](images/AnnotatedUi.png)
 
-<div style="page-break-after: always;"></div>
 1. Type a command in the _Command Box_ and press Enter to execute it. e.g. typing **`help`** and pressing Enter will
  display the help page.<br>
    Some other example commands you can try:
@@ -85,8 +86,6 @@ Follow the steps below to learn how to get started with GradPad!
 
    * **`exit`** : Exits the app.
    
-
-
 <div markdown="block" class="alert alert-info">
 
 **:information_source: Note:**<br>
@@ -117,7 +116,6 @@ This section provides a consolidated view of GradPad's features in a table form 
  View Help                               | Allows you to view a list of all possible commands
  Exit the Program                        | Allows you to exit GradPad
 
-
 Refer to [Commands](#commands) below for details on all commands.
 
 <div style="page-break-after: always;"></div>
@@ -141,6 +139,7 @@ c/NEW_MODULE_CODE ` is also acceptable.
 
 </div>
 
+<div style="page-break-after: always;"></div>
 ### Adding a module: `add` (Shao Kiat)
 
 Scenario:<br>
@@ -176,6 +175,7 @@ To add a module:
  .<br>
 ![Add2](images/Add2.png)
 
+<div style="page-break-after: always;"></div>
 ### Viewing all added modules: `list` (Sam)
 
 Scenario:<br>
@@ -195,6 +195,7 @@ How to use `list`:<br>
 view all your previously added modules in the _Completed Modules List_.
 ![List2](images/List2.png)
 
+<div style="page-break-after: always;"></div>
 ### Viewing all added tags: `tags` (Yan)
 
 Scenario:<br>
@@ -214,6 +215,7 @@ How to use `tags`:
 2. The _Result Display Box_ will display a list of all existing tags.
 ![Tag2](images/Tags2.png)
 
+<div style="page-break-after: always;"></div>
 ### Editing module details: `edit` (Syafiq)
 
 Scenario:<br>
@@ -259,6 +261,7 @@ module displayed in the _Completed Modules List_ has been replaced.
 
 ![Edit2](images/Edit2.png)
 
+<div style="page-break-after: always;"></div>
 ### Finding a specific module or a group of modules: `find` (Shao Kiat)
 
 Scenario:<br>
@@ -285,6 +288,7 @@ To find modules:
 whose module codes contain "ma" and modules with "bestmodule" as a tag in the _Completed Modules List_.
 ![Find2](images/Find2.png)
 
+<div style="page-break-after: always;"></div>
 ### Deleting a Module: `delete` (Sam)
 
 Scenario:<br>
@@ -317,6 +321,7 @@ For experienced users, you can use the `fdelete` command instead, to bypass the 
 
 </div>
 
+<div style="page-break-after: always;"></div>
 ### Checking total modular credits: `checkmc` (Yan)
 
 <div markdown="block" class="alert alert-info">
@@ -343,6 +348,7 @@ How to use `checkmc`:
 2. The _Result Display Box_ will display a message telling you how many modular credits you have accumulated so far.
 ![CheckMc2](images/CheckMc2.png)
 
+<div style="page-break-after: always;"></div>
 ### Checking required modules: `required` (Syafiq)
 
 Scenario: <br>
@@ -368,6 +374,7 @@ How to use `required`:
 2. The _Result Display Box_ will then display all the modules you have yet to take for each particular field, as shown below.
 ![Required2](images/Required2.png)
 
+<div style="page-break-after: always;"></div>
 ### Checking General Education Modules: `gem` (Shao Kiat)
 
 Scenario: <br>
@@ -388,6 +395,7 @@ How to use `gem`:
 categorised into Semester 1 and 2, as shown below.
 ![Gem2](images/Gem2.png)
 
+<div style="page-break-after: always;"></div>
 ### Checking Science modules: `science` (Sam)
 
 Scenario: <br>
@@ -406,6 +414,7 @@ How to use `science`:
 2. The _Result Display Box_ will then display all the available Science modules that you can take, as shown below.
 ![Science2](images/Science2.png)
 
+<div style="page-break-after: always;"></div>
 ### Searching for a module: `search` (Yan)
 
 Scenario: <br>
@@ -433,6 +442,7 @@ If you are not connected to the internet, you can only search for modules that a
 2. The _Result Display Box_ will then display all the relevant information about the module "MA1521", as shown below.
 ![Search2](images/Search2.png)
 
+<div style="page-break-after: always;"></div>
 ### Clearing all modules in GradPad: `clear` (Syafiq)
 
 Scenario: <br>
@@ -461,6 +471,7 @@ For experienced users, you can use the `fclear` command instead, to bypass the c
 
 </div>
 
+<div style="page-break-after: always;"></div>
 ### Showing the help display: `help` (Shao Kiat)
 
 Scenario: <br>
@@ -478,6 +489,7 @@ How to use `help`:
 1. The _Result Display Box_ will display all of GradPad's commands along with examples on how to use them.<br>
 ![Help2](images/Help2.png)
 
+<div style="page-break-after: always;"></div>
 ### Exiting GradPad: `exit` (Sam)
 
 Apart from clicking the "close" button at the top of the GradPad window, you can exit GradPad using the `exit` command.
@@ -490,8 +502,7 @@ How to use `exit`:
 2. The _Result Display Box_ will display the message "Take care!" and after a 1.5 second delay, the application will terminate.<br>
 ![Exit2](images/Exit2.png)
 
---------------------------------------------------------------------------------------------------------------------
-
+<div style="page-break-after: always;"></div>
 ## FAQ (Yan)
 
 **Q**: How do I transfer my data to another Computer?<br>
@@ -507,8 +518,7 @@ an empty `gradPad.json` file has been created.
 **Q**: Can I add modules that I am unable to take? (Precluded modules or modules from other faculties)<br>
 **A**: Yes. GradPad offers you the flexibility to customize your module plan.
 
---------------------------------------------------------------------------------------------------------------------
-
+<div style="page-break-after: always;"></div>
 ## Command summary (Syafiq)
 
 This section provides a table of all the commands available and their respective usage examples in GradPad.
