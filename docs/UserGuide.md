@@ -30,7 +30,7 @@ This user guide introduces what you can do with GradPad and the steps needed to 
 it includes a [quick start guide](#quick-start) that walks you through the installation and set-up process.
 With this guide, you'll be ready to use GradPad in no time.
 
---------------------------------------------------------------------------------------------------------------------
+<div style="page-break-after: always;"></div>
 ## NUSMods integration
 ![NUSMods](images/nusmods.png) 
 
