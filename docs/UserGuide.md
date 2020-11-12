@@ -170,6 +170,7 @@ To add a module:
 1. Type `add cs2101 t/superbmodule t/superfun` into the *Command Box*, and press **Enter** to execute it.<br>
 ![Add1](images/Add1.png)
 
+<div style="page-break-after: always;"></div>
 2. The *Result Display Box* will display the message "The following module has been successfully added", along with
  the details of the module. You will then be able to see the CS2101 module at the bottom of the *Completed Modules List*
  .<br>
@@ -255,6 +256,7 @@ To edit the tag of an existing module:
 1. Type `edit cs2101 t/bestmodule` into the _Command Box_, and press **Enter** to execute it.<br>
 ![Edit1](images/Edit1.png)
 
+<div style="page-break-after: always;"></div>
 2. The _Result Display Box_ will display the message "The following module has been successfully edited",
 along with the newly edited details of the module. You will also be able to see that the tags of the
 module displayed in the _Completed Modules List_ has been replaced.
@@ -310,6 +312,7 @@ To delete the module:
 2. When you are prompted for a confirmation, type `yes` into the _Command Box_, and press **Enter**.<br>
 ![Delete2](images/Delete2.png)
 
+<div style="page-break-after: always;"></div>
 3. The _Result Display Box_ will display the message "The following module has been successfully deleted" along
 with the details of the module you deleted.
 ![Delete3](images/Delete3.png)
@@ -460,6 +463,7 @@ How to use `clear`:
 2. When you are prompted for a confirmation, type `yes` into the _Command Box_, and press **Enter**.<br>
 ![Clear2](images/Clear2.png)
 
+<div style="page-break-after: always;"></div>
 3. The *Result Display Box* will then display the message "GradPad has been cleared!" and the 
 *Completed Modules List* will now be empty, as shown below.
 ![Clear3](images/Clear3.png)
